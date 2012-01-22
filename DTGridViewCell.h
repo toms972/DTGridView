@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DTGridViewCellInfoProtocol.h"
+#import <ApplicasterHeaders/DTGridViewCellInfoProtocol.h>
 
 @protocol DTGridViewCellDelegate;
 

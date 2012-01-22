@@ -6,8 +6,8 @@
 //  Copyright 2009 Daniel Tull. All rights reserved.
 //
 
-#import "DTGridViewCell.h"
-#import "DTGridView.h"
+#import <ApplicasterHeaders/DTGridViewCell.h>
+#import <ApplicasterHeaders/DTGridView.h>
 
 #pragma mark Private Methods
 @interface DTGridViewCell ()

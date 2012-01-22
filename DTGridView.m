@@ -6,8 +6,8 @@
 //  Copyright 2008 Daniel Tull. All rights reserved.
 //
 
-#import "DTGridView.h"
-#import "DTGridViewCellInfoProtocol.h"
+#import <ApplicasterHeaders/DTGridView.h>
+#import <ApplicasterHeaders/DTGridViewCellInfoProtocol.h>
 
 NSInteger const DTGridViewInvalid = -1;
 NSInteger intSort(id info1, id info2, void *context);

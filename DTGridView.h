@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DTGridViewCell.h"
+#import <ApplicasterHeaders/DTGridViewCell.h>
 
 /*!
  @enum DTGridViewScrollPosition

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DTGridView.h"
+#import <ApplicasterHeaders/DTGridView.h>
 
 @interface DTGridViewController : UIViewController <DTGridViewDataSource, DTGridViewDelegate> {
 	DTGridView *gridView;
